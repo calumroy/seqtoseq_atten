@@ -21,7 +21,7 @@ mock==3.0.5
 nbformat==4.4.0
 numpy==1.16.4
 plotly==3.10.0
-protobuf==3.8.0
+protobuf==3.18.3
 pyparsing==2.4.0
 pyrsistent==0.15.2
 python-dateutil==2.8.0
